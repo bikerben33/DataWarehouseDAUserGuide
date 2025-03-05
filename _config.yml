@@ -2,10 +2,12 @@ title: Data Warehouse Direct Access User Guide
 description: Connecting to the Data Warehouse without a browser.
 remote_theme: carlosperate/jekyll-theme-rtd
 
-#plugins:
-#  - jekyll-remote-theme
-
-url: https://bikerben33.github.io/DataWarehouseDAUserGuide
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# Theme settings:
+site_author: Carlos Pereira Atencio
+repo_url: "https://github.com/carlosperate/jekyll-theme-rtd"
+edit_on_github: true
+github_docs_folder: true
+sticky_navigation: true
+prev_next_buttons_location: bottom
+search_enabled: true
+hljs_style: github-gist
