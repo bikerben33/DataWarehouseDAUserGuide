@@ -1,6 +1,6 @@
 title: Data Warehouse Direct Access User Guide
 description: Connecting to the Data Warehouse without a browser.
-# theme: 
+theme: jekyll-remote-theme
 
 plugins:
   - jekyll-remote-theme
